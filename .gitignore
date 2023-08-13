@@ -10,7 +10,7 @@
 # Ignore data files, models, and other large binary files
 /data/
 /models/
-
+/artifacts/
 # Ignore logs and temporary files
 /logs/
 /tmp/
